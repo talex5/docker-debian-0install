@@ -10,4 +10,7 @@
   <key fingerprint="66B436AC2D4B2281257B9BB985A0F0DAB46EE668">
     <domain value="0install.de"/>
   </key>
+  <key fingerprint="88C8A1F375928691D7365C0259AA3927C24E4E1E">
+    <domain value="apps.0install.net"/>
+  </key>
 </trusted-keys>
